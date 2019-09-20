@@ -1,3 +1,8 @@
+Demo
+https://de24world.github.io/AngularProduct/products
+
+
+
 # Products
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
